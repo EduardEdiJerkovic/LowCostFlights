@@ -1,0 +1,10 @@
+c:\Users\Eduard-Edi\Documents\Code\LowCostFlights\bin\Debug\netcoreapp2.0\LowCostFlights.deps.json
+c:\Users\Eduard-Edi\Documents\Code\LowCostFlights\bin\Debug\netcoreapp2.0\LowCostFlights.runtimeconfig.json
+c:\Users\Eduard-Edi\Documents\Code\LowCostFlights\bin\Debug\netcoreapp2.0\LowCostFlights.runtimeconfig.dev.json
+c:\Users\Eduard-Edi\Documents\Code\LowCostFlights\bin\Debug\netcoreapp2.0\LowCostFlights.dll
+c:\Users\Eduard-Edi\Documents\Code\LowCostFlights\bin\Debug\netcoreapp2.0\LowCostFlights.pdb
+c:\Users\Eduard-Edi\Documents\Code\LowCostFlights\obj\Debug\netcoreapp2.0\LowCostFlights.csproj.CoreCompileInputs.cache
+c:\Users\Eduard-Edi\Documents\Code\LowCostFlights\obj\Debug\netcoreapp2.0\LowCostFlights.AssemblyInfoInputs.cache
+c:\Users\Eduard-Edi\Documents\Code\LowCostFlights\obj\Debug\netcoreapp2.0\LowCostFlights.AssemblyInfo.cs
+c:\Users\Eduard-Edi\Documents\Code\LowCostFlights\obj\Debug\netcoreapp2.0\LowCostFlights.dll
+c:\Users\Eduard-Edi\Documents\Code\LowCostFlights\obj\Debug\netcoreapp2.0\LowCostFlights.pdb
