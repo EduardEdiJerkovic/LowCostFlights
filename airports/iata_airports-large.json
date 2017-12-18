@@ -1,0 +1,2862 @@
+{
+    "ROC": {
+        "country": "US",
+        "city": "Rochester",
+        "name": "Greater Rochester International Airport"
+    },
+    "CDG": {
+        "country": "FR",
+        "city": "Paris",
+        "name": "Charles de Gaulle International Airport"
+    },
+    "URC": {
+        "country": "CN",
+        "city": "\u00dcr\u00fcmqi",
+        "name": "\u00dcr\u00fcmqi Diwopu International Airport"
+    },
+    "CCU": {
+        "country": "IN",
+        "city": "Kolkata",
+        "name": "Netaji Subhash Chandra Bose International Airport"
+    },
+    "MOB": {
+        "country": "US",
+        "city": "Mobile",
+        "name": "Mobile Regional Airport"
+    },
+    "DAR": {
+        "country": "TZ",
+        "city": "Dar es Salaam",
+        "name": "Julius Nyerere International Airport"
+    },
+    "SAW": {
+        "country": "TR",
+        "city": "Istanbul",
+        "name": "Sabiha G\u00f6k\u00e7en International Airport"
+    },
+    "YVR": {
+        "country": "CA",
+        "city": "Vancouver",
+        "name": "Vancouver International Airport"
+    },
+    "KUL": {
+        "country": "MY",
+        "city": "Kuala Lumpur",
+        "name": "Kuala Lumpur International Airport"
+    },
+    "BZE": {
+        "country": "BZ",
+        "city": "Belize City",
+        "name": "Philip S. W. Goldson International Airport"
+    },
+    "GSO": {
+        "country": "US",
+        "city": "Greensboro",
+        "name": "Piedmont Triad International Airport"
+    },
+    "MRS": {
+        "country": "FR",
+        "city": "Marseille",
+        "name": "Marseille Provence Airport"
+    },
+    "DUB": {
+        "country": "IE",
+        "city": "Dublin",
+        "name": "Dublin Airport"
+    },
+    "GSB": {
+        "country": "US",
+        "city": "Goldsboro",
+        "name": "Seymour Johnson Air Force Base"
+    },
+    "CAN": {
+        "country": "CN",
+        "city": "Guangzhou",
+        "name": "Guangzhou Baiyun International Airport"
+    },
+    "CKL": {
+        "country": "RU",
+        "city": "Moscow",
+        "name": "Chkalovskiy Airport"
+    },
+    "RST": {
+        "country": "US",
+        "city": "Rochester",
+        "name": "Rochester International Airport"
+    },
+    "MHZ": {
+        "country": "GB",
+        "city": "Mildenhall",
+        "name": "RAF Mildenhall"
+    },
+    "LEX": {
+        "country": "US",
+        "city": "Lexington",
+        "name": "Blue Grass Airport"
+    },
+    "BOM": {
+        "country": "IN",
+        "city": "Mumbai",
+        "name": "Chhatrapati Shivaji International Airport"
+    },
+    "PEK": {
+        "country": "CN",
+        "city": "Beijing",
+        "name": "Beijing Capital International Airport"
+    },
+    "BAB": {
+        "country": "US",
+        "city": "Marysville",
+        "name": "Beale Air Force Base"
+    },
+    "VDA": {
+        "country": "IL",
+        "city": "Eilat",
+        "name": "Ovda International Airport"
+    },
+    "SUS": {
+        "country": "US",
+        "city": "St Louis",
+        "name": "Spirit of St Louis Airport"
+    },
+    "MDL": {
+        "country": "MM",
+        "city": "Mandalay",
+        "name": "Mandalay International Airport"
+    },
+    "MHT": {
+        "country": "US",
+        "city": "Manchester",
+        "name": "Manchester Airport"
+    },
+    "MUO": {
+        "country": "US",
+        "city": "Mountain Home",
+        "name": "Mountain Home Air Force Base"
+    },
+    "NGB": {
+        "country": "CN",
+        "city": "Ningbo",
+        "name": "Ningbo Lishe International Airport"
+    },
+    "MUC": {
+        "country": "DE",
+        "city": "Munich",
+        "name": "Munich Airport"
+    },
+    "JLN": {
+        "country": "US",
+        "city": "Joplin",
+        "name": "Joplin Regional Airport"
+    },
+    "SNA": {
+        "country": "US",
+        "city": "Santa Ana",
+        "name": "John Wayne Airport-Orange County Airport"
+    },
+    "HEL": {
+        "country": "FI",
+        "city": "Helsinki",
+        "name": "Helsinki Vantaa Airport"
+    },
+    "DWC": {
+        "country": "AE",
+        "city": "Jebel Ali",
+        "name": "Al Maktoum International Airport"
+    },
+    "FLN": {
+        "country": "BR",
+        "city": "Florian\u00f3polis",
+        "name": "Herc\u00edlio Luz International Airport"
+    },
+    "QUO": {
+        "country": "NG",
+        "city": "Uyo",
+        "name": "Akwa Ibom International Airport"
+    },
+    "IND": {
+        "country": "US",
+        "city": "Indianapolis",
+        "name": "Indianapolis International Airport"
+    },
+    "DFW": {
+        "country": "US",
+        "city": "Dallas-Fort Worth",
+        "name": "Dallas Fort Worth International Airport"
+    },
+    "MGE": {
+        "country": "US",
+        "city": "Marietta",
+        "name": "Dobbins Air Reserve Base"
+    },
+    "BEG": {
+        "country": "RS",
+        "city": "Belgrade",
+        "name": "Belgrade Nikola Tesla Airport"
+    },
+    "DMK": {
+        "country": "TH",
+        "city": "Bangkok",
+        "name": "Don Mueang International Airport"
+    },
+    "CTA": {
+        "country": "IT",
+        "city": "Catania",
+        "name": "Catania-Fontanarossa Airport"
+    },
+    "TRD": {
+        "country": "NO",
+        "city": "Trondheim",
+        "name": "Trondheim Airport V\u00e6rnes"
+    },
+    "STN": {
+        "country": "GB",
+        "city": "London",
+        "name": "London Stansted Airport"
+    },
+    "MST": {
+        "country": "NL",
+        "city": "Maastricht",
+        "name": "Maastricht Aachen Airport"
+    },
+    "ITM": {
+        "country": "JP",
+        "city": "Osaka",
+        "name": "Osaka International Airport"
+    },
+    "OKO": {
+        "country": "JP",
+        "city": "Fussa",
+        "name": "Yokota Air Base"
+    },
+    "WLG": {
+        "country": "NZ",
+        "city": "Wellington",
+        "name": "Wellington International Airport"
+    },
+    "ATQ": {
+        "country": "IN",
+        "city": "Amritsar",
+        "name": "Sri Guru Ram Dass Jee International Airport"
+    },
+    "DAM": {
+        "country": "SY",
+        "city": "Damascus",
+        "name": "Damascus International Airport"
+    },
+    "SOU": {
+        "country": "GB",
+        "city": "Southampton",
+        "name": "Southampton Airport"
+    },
+    "DKR": {
+        "country": "SN",
+        "city": "Dakar",
+        "name": "L\u00e9opold S\u00e9dar Senghor International Airport"
+    },
+    "SYZ": {
+        "country": "IR",
+        "city": "Shiraz",
+        "name": "Shiraz Shahid Dastghaib International Airport"
+    },
+    "TYN": {
+        "country": "CN",
+        "city": "Taiyuan",
+        "name": "Taiyuan Wusu Airport"
+    },
+    "SHE": {
+        "country": "CN",
+        "city": "Shenyang",
+        "name": "Taoxian Airport"
+    },
+    "CKG": {
+        "country": "CN",
+        "city": "Chongqing",
+        "name": "Chongqing Jiangbei International Airport"
+    },
+    "SPS": {
+        "country": "US",
+        "city": "Wichita Falls",
+        "name": "Sheppard Air Force Base-Wichita Falls Municipal Airport"
+    },
+    "SYD": {
+        "country": "AU",
+        "city": "Sydney",
+        "name": "Sydney Kingsford Smith International Airport"
+    },
+    "BSL": {
+        "country": "FR",
+        "city": "B\u00e2le/Mulhouse",
+        "name": "EuroAirport Basel-Mulhouse-Freiburg Airport"
+    },
+    "IST": {
+        "country": "TR",
+        "city": "Istanbul",
+        "name": "Atat\u00fcrk International Airport"
+    },
+    "BSB": {
+        "country": "BR",
+        "city": "Bras\u00edlia",
+        "name": "Presidente Juscelino Kubistschek International Airport"
+    },
+    "FLL": {
+        "country": "US",
+        "city": "Fort Lauderdale",
+        "name": "Fort Lauderdale Hollywood International Airport"
+    },
+    "PHF": {
+        "country": "US",
+        "city": "Newport News",
+        "name": "Newport News Williamsburg International Airport"
+    },
+    "UPG": {
+        "country": "ID",
+        "city": "Ujung Pandang-Celebes Island",
+        "name": "Hasanuddin International Airport"
+    },
+    "MBS": {
+        "country": "US",
+        "city": "Saginaw",
+        "name": "MBS International Airport"
+    },
+    "NUE": {
+        "country": "DE",
+        "city": "Nuremberg",
+        "name": "Nuremberg Airport"
+    },
+    "ORD": {
+        "country": "US",
+        "city": "Chicago",
+        "name": "Chicago O'Hare International Airport"
+    },
+    "CMH": {
+        "country": "US",
+        "city": "Columbus",
+        "name": "Port Columbus International Airport"
+    },
+    "FOC": {
+        "country": "CN",
+        "city": "Fuzhou",
+        "name": "Fuzhou Changle International Airport"
+    },
+    "MNL": {
+        "country": "PH",
+        "city": "Manila",
+        "name": "Ninoy Aquino International Airport"
+    },
+    "CCS": {
+        "country": "VE",
+        "city": "Caracas",
+        "name": "Sim\u00f3n Bol\u00edvar International Airport"
+    },
+    "XMN": {
+        "country": "CN",
+        "city": "Xiamen",
+        "name": "Xiamen Gaoqi International Airport"
+    },
+    "DOH": {
+        "country": "QA",
+        "city": "Doha",
+        "name": "Hamad International Airport"
+    },
+    "PHL": {
+        "country": "US",
+        "city": "Philadelphia",
+        "name": "Philadelphia International Airport"
+    },
+    "ONT": {
+        "country": "US",
+        "city": "Ontario",
+        "name": "Ontario International Airport"
+    },
+    "MLA": {
+        "country": "MT",
+        "city": "Valletta",
+        "name": "Malta International Airport"
+    },
+    "CID": {
+        "country": "US",
+        "city": "Cedar Rapids",
+        "name": "The Eastern Iowa Airport"
+    },
+    "AGS": {
+        "country": "US",
+        "city": "Augusta",
+        "name": "Augusta Regional At Bush Field"
+    },
+    "GVA": {
+        "country": "CH",
+        "city": "Geneva",
+        "name": "Geneva Cointrin International Airport"
+    },
+    "ADD": {
+        "country": "ET",
+        "city": "Addis Ababa",
+        "name": "Addis Ababa Bole International Airport"
+    },
+    "CUZ": {
+        "country": "PE",
+        "city": "Cusco",
+        "name": "Alejandro Velasco Astete International Airport"
+    },
+    "SGN": {
+        "country": "VN",
+        "city": "Ho Chi Minh City",
+        "name": "Tan Son Nhat International Airport"
+    },
+    "SVX": {
+        "country": "RU",
+        "city": "Yekaterinburg",
+        "name": "Koltsovo Airport"
+    },
+    "ESB": {
+        "country": "TR",
+        "city": "Ankara",
+        "name": "Esenbo\u011fa International Airport"
+    },
+    "FAI": {
+        "country": "US",
+        "city": "Fairbanks",
+        "name": "Fairbanks International Airport"
+    },
+    "BOJ": {
+        "country": "BG",
+        "city": "Burgas",
+        "name": "Burgas Airport"
+    },
+    "AVL": {
+        "country": "US",
+        "city": "Asheville",
+        "name": "Asheville Regional Airport"
+    },
+    "LED": {
+        "country": "RU",
+        "city": "St. Petersburg",
+        "name": "Pulkovo Airport"
+    },
+    "ODS": {
+        "country": "UA",
+        "city": "Odessa",
+        "name": "Odessa International Airport"
+    },
+    "SXF": {
+        "country": "DE",
+        "city": "Berlin",
+        "name": "Berlin-Sch\u00f6nefeld Airport"
+    },
+    "SHJ": {
+        "country": "AE",
+        "city": "Sharjah",
+        "name": "Sharjah International Airport"
+    },
+    "LUF": {
+        "country": "US",
+        "city": "Glendale",
+        "name": "Luke Air Force Base"
+    },
+    "CMN": {
+        "country": "MA",
+        "city": "Casablanca",
+        "name": "Mohammed V International Airport"
+    },
+    "FFO": {
+        "country": "US",
+        "city": "Dayton",
+        "name": "Wright-Patterson Air Force Base"
+    },
+    "AUH": {
+        "country": "AE",
+        "city": "Abu Dhabi",
+        "name": "Abu Dhabi International Airport"
+    },
+    "JFK": {
+        "country": "US",
+        "city": "New York",
+        "name": "John F Kennedy International Airport"
+    },
+    "FRU": {
+        "country": "KG",
+        "city": "Bishkek",
+        "name": "Manas International Airport"
+    },
+    "ERZ": {
+        "country": "TR",
+        "city": "Erzurum",
+        "name": "Erzurum International Airport"
+    },
+    "HYD": {
+        "country": "IN",
+        "city": "Hyderabad",
+        "name": "Rajiv Gandhi International Airport"
+    },
+    "CGY": {
+        "country": "PH",
+        "city": "Cagayan de Oro City",
+        "name": "Laguindingan Airport"
+    },
+    "LBB": {
+        "country": "US",
+        "city": "Lubbock",
+        "name": "Lubbock Preston Smith International Airport"
+    },
+    "DOV": {
+        "country": "US",
+        "city": "Dover",
+        "name": "Dover Air Force Base"
+    },
+    "AMA": {
+        "country": "US",
+        "city": "Amarillo",
+        "name": "Rick Husband Amarillo International Airport"
+    },
+    "TGD": {
+        "country": "ME",
+        "city": "Podgorica",
+        "name": "Podgorica Airport"
+    },
+    "BRI": {
+        "country": "IT",
+        "city": "Bari",
+        "name": "Bari Karol Wojty\u0142a Airport"
+    },
+    "TXL": {
+        "country": "DE",
+        "city": "Berlin",
+        "name": "Berlin-Tegel Airport"
+    },
+    "NKG": {
+        "country": "CN",
+        "city": "Nanjing",
+        "name": "Nanjing Lukou Airport"
+    },
+    "CLE": {
+        "country": "US",
+        "city": "Cleveland",
+        "name": "Cleveland Hopkins International Airport"
+    },
+    "TSF": {
+        "country": "IT",
+        "city": "Treviso",
+        "name": "Treviso-Sant'Angelo Airport"
+    },
+    "LUN": {
+        "country": "ZM",
+        "city": "Lusaka",
+        "name": "Kenneth Kaunda International Airport Lusaka"
+    },
+    "KRK": {
+        "country": "PL",
+        "city": "Krak\u00f3w",
+        "name": "John Paul II International Airport Krak\u00f3w-Balice Airport"
+    },
+    "HSV": {
+        "country": "US",
+        "city": "Huntsville",
+        "name": "Huntsville International Carl T Jones Field"
+    },
+    "HMO": {
+        "country": "MX",
+        "city": "Hermosillo",
+        "name": "General Ignacio P. Garcia International Airport"
+    },
+    "FWA": {
+        "country": "US",
+        "city": "Fort Wayne",
+        "name": "Fort Wayne International Airport"
+    },
+    "TFN": {
+        "country": "ES",
+        "city": "Tenerife Island",
+        "name": "Tenerife Norte Airport"
+    },
+    "BIL": {
+        "country": "US",
+        "city": "Billings",
+        "name": "Billings Logan International Airport"
+    },
+    "SZL": {
+        "country": "US",
+        "city": "Knob Noster",
+        "name": "Whiteman Air Force Base"
+    },
+    "LGA": {
+        "country": "US",
+        "city": "New York",
+        "name": "La Guardia Airport"
+    },
+    "SRQ": {
+        "country": "US",
+        "city": "Sarasota/Bradenton",
+        "name": "Sarasota Bradenton International Airport"
+    },
+    "DEL": {
+        "country": "IN",
+        "city": "New Delhi",
+        "name": "Indira Gandhi International Airport"
+    },
+    "THR": {
+        "country": "IR",
+        "city": "Tehran",
+        "name": "Mehrabad International Airport"
+    },
+    "RUH": {
+        "country": "SA",
+        "city": "Riyadh",
+        "name": "King Khaled International Airport"
+    },
+    "MVD": {
+        "country": "UY",
+        "city": "Montevideo",
+        "name": "Carrasco International /General C L Berisso Airport"
+    },
+    "MEL": {
+        "country": "AU",
+        "city": "Melbourne",
+        "name": "Melbourne International Airport"
+    },
+    "KUV": {
+        "country": "KR",
+        "city": "Kunsan",
+        "name": "Kunsan Air Base"
+    },
+    "LFT": {
+        "country": "US",
+        "city": "Lafayette",
+        "name": "Lafayette Regional Airport"
+    },
+    "TYS": {
+        "country": "US",
+        "city": "Knoxville",
+        "name": "McGhee Tyson Airport"
+    },
+    "CEB": {
+        "country": "PH",
+        "city": "Lapu-Lapu City",
+        "name": "Mactan Cebu International Airport"
+    },
+    "TUN": {
+        "country": "TN",
+        "city": "Tunis",
+        "name": "Tunis Carthage International Airport"
+    },
+    "COK": {
+        "country": "IN",
+        "city": "Kochi",
+        "name": "Cochin International Airport"
+    },
+    "PUS": {
+        "country": "KR",
+        "city": "Busan",
+        "name": "Gimhae International Airport"
+    },
+    "SVG": {
+        "country": "NO",
+        "city": "Stavanger",
+        "name": "Stavanger Airport Sola"
+    },
+    "VNO": {
+        "country": "LT",
+        "city": "Vilnius",
+        "name": "Vilnius International Airport"
+    },
+    "NBE": {
+        "country": "TN",
+        "city": "Enfidha",
+        "name": "Enfidha - Hammamet International Airport"
+    },
+    "SMF": {
+        "country": "US",
+        "city": "Sacramento",
+        "name": "Sacramento International Airport"
+    },
+    "PER": {
+        "country": "AU",
+        "city": "Perth",
+        "name": "Perth International Airport"
+    },
+    "LIN": {
+        "country": "IT",
+        "city": "Milan",
+        "name": "Milano Linate Airport"
+    },
+    "SYX": {
+        "country": "CN",
+        "city": "Sanya",
+        "name": "Sanya Phoenix International Airport"
+    },
+    "ABQ": {
+        "country": "US",
+        "city": "Albuquerque",
+        "name": "Albuquerque International Sunport Airport"
+    },
+    "LCA": {
+        "country": "CY",
+        "city": "Larnarca",
+        "name": "Larnaca International Airport"
+    },
+    "BRS": {
+        "country": "GB",
+        "city": "Bristol",
+        "name": "Bristol Airport"
+    },
+    "CGN": {
+        "country": "DE",
+        "city": "Cologne",
+        "name": "Cologne Bonn Airport"
+    },
+    "RNO": {
+        "country": "US",
+        "city": "Reno",
+        "name": "Reno Tahoe International Airport"
+    },
+    "GDN": {
+        "country": "PL",
+        "city": "Gda\u0144sk",
+        "name": "Gda\u0144sk Lech Wa\u0142\u0119sa Airport"
+    },
+    "BHM": {
+        "country": "US",
+        "city": "Birmingham",
+        "name": "Birmingham-Shuttlesworth International Airport"
+    },
+    "YUL": {
+        "country": "CA",
+        "city": "Montr\u00e9al",
+        "name": "Montreal / Pierre Elliott Trudeau International Airport"
+    },
+    "CJJ": {
+        "country": "KR",
+        "city": "Cheongju",
+        "name": "Cheongju International Airport/Cheongju Air Base (K-59/G-513)"
+    },
+    "WNZ": {
+        "country": "CN",
+        "city": "Wenzhou",
+        "name": "Wenzhou Yongqiang Airport"
+    },
+    "SUU": {
+        "country": "US",
+        "city": "Fairfield",
+        "name": "Travis Air Force Base"
+    },
+    "DYS": {
+        "country": "US",
+        "city": "Abilene",
+        "name": "Dyess Air Force Base"
+    },
+    "MSN": {
+        "country": "US",
+        "city": "Madison",
+        "name": "Dane County Regional Truax Field"
+    },
+    "LEJ": {
+        "country": "DE",
+        "city": "Leipzig",
+        "name": "Leipzig/Halle Airport"
+    },
+    "ROA": {
+        "country": "US",
+        "city": "Roanoke",
+        "name": "Roanoke\u2013Blacksburg Regional Airport"
+    },
+    "SAV": {
+        "country": "US",
+        "city": "Savannah",
+        "name": "Savannah Hilton Head International Airport"
+    },
+    "JUB": {
+        "country": "SS",
+        "city": "Juba",
+        "name": "Juba International Airport"
+    },
+    "CAG": {
+        "country": "IT",
+        "city": "Cagliari",
+        "name": "Cagliari Elmas Airport"
+    },
+    "WMI": {
+        "country": "PL",
+        "city": "Warsaw",
+        "name": "Modlin Airport"
+    },
+    "DRS": {
+        "country": "DE",
+        "city": "Dresden",
+        "name": "Dresden Airport"
+    },
+    "ANC": {
+        "country": "US",
+        "city": "Anchorage",
+        "name": "Ted Stevens Anchorage International Airport"
+    },
+    "CRW": {
+        "country": "US",
+        "city": "Charleston",
+        "name": "Yeager Airport"
+    },
+    "SFO": {
+        "country": "US",
+        "city": "San Francisco",
+        "name": "San Francisco International Airport"
+    },
+    "LTS": {
+        "country": "US",
+        "city": "Altus",
+        "name": "Altus Air Force Base"
+    },
+    "SJC": {
+        "country": "US",
+        "city": "San Jose",
+        "name": "Norman Y. Mineta San Jose International Airport"
+    },
+    "CRP": {
+        "country": "US",
+        "city": "Corpus Christi",
+        "name": "Corpus Christi International Airport"
+    },
+    "SHV": {
+        "country": "US",
+        "city": "Shreveport",
+        "name": "Shreveport Regional Airport"
+    },
+    "BLL": {
+        "country": "DK",
+        "city": "Billund",
+        "name": "Billund Airport"
+    },
+    "HND": {
+        "country": "JP",
+        "city": "Tokyo",
+        "name": "Tokyo Haneda International Airport"
+    },
+    "OVB": {
+        "country": "RU",
+        "city": "Novosibirsk",
+        "name": "Tolmachevo Airport"
+    },
+    "BDL": {
+        "country": "US",
+        "city": "Hartford",
+        "name": "Bradley International Airport"
+    },
+    "BOH": {
+        "country": "GB",
+        "city": "Bournemouth",
+        "name": "Bournemouth Airport"
+    },
+    "PFO": {
+        "country": "CY",
+        "city": "Paphos",
+        "name": "Paphos International Airport"
+    },
+    "SDF": {
+        "country": "US",
+        "city": "Louisville",
+        "name": "Louisville International Standiford Field"
+    },
+    "REP": {
+        "country": "KH",
+        "city": "Siem Reap",
+        "name": "Siem Reap International Airport"
+    },
+    "CGO": {
+        "country": "CN",
+        "city": "Zhengzhou",
+        "name": "Zhengzhou Xinzheng International Airport"
+    },
+    "SAL": {
+        "country": "SV",
+        "city": "San Salvador (San Luis Talpa)",
+        "name": "Monse\u00f1or \u00d3scar Arnulfo Romero International Airport"
+    },
+    "KZN": {
+        "country": "RU",
+        "city": "Kazan",
+        "name": "Kazan International Airport"
+    },
+    "LUX": {
+        "country": "LU",
+        "city": "Luxembourg",
+        "name": "Luxembourg-Findel International Airport"
+    },
+    "FSZ": {
+        "country": "JP",
+        "city": "Makinohara / Shimada",
+        "name": "Mt. Fuji Shizuoka Airport"
+    },
+    "MCI": {
+        "country": "US",
+        "city": "Kansas City",
+        "name": "Kansas City International Airport"
+    },
+    "GRU": {
+        "country": "BR",
+        "city": "S\u00e3o Paulo",
+        "name": "Guarulhos - Governador Andr\u00e9 Franco Montoro International Airport"
+    },
+    "FUK": {
+        "country": "JP",
+        "city": "Fukuoka",
+        "name": "Fukuoka Airport"
+    },
+    "LHR": {
+        "country": "GB",
+        "city": "London",
+        "name": "London Heathrow Airport"
+    },
+    "GRB": {
+        "country": "US",
+        "city": "Green Bay",
+        "name": "Austin Straubel International Airport"
+    },
+    "PNH": {
+        "country": "KH",
+        "city": "Phnom Penh",
+        "name": "Phnom Penh International Airport"
+    },
+    "SKG": {
+        "country": "GR",
+        "city": "Thessaloniki",
+        "name": "Thessaloniki Macedonia International Airport"
+    },
+    "GEG": {
+        "country": "US",
+        "city": "Spokane",
+        "name": "Spokane International Airport"
+    },
+    "MEM": {
+        "country": "US",
+        "city": "Memphis",
+        "name": "Memphis International Airport"
+    },
+    "UFA": {
+        "country": "RU",
+        "city": "Ufa",
+        "name": "Ufa International Airport"
+    },
+    "NCE": {
+        "country": "FR",
+        "city": "Nice",
+        "name": "Nice-C\u00f4te d'Azur Airport"
+    },
+    "WRO": {
+        "country": "PL",
+        "city": "Wroc\u0142aw",
+        "name": "Copernicus Wroc\u0142aw Airport"
+    },
+    "HAV": {
+        "country": "CU",
+        "city": "Havana",
+        "name": "Jos\u00e9 Mart\u00ed International Airport"
+    },
+    "MDW": {
+        "country": "US",
+        "city": "Chicago",
+        "name": "Chicago Midway International Airport"
+    },
+    "SIN": {
+        "country": "SG",
+        "city": "Singapore",
+        "name": "Singapore Changi Airport"
+    },
+    "BEY": {
+        "country": "LB",
+        "city": "Beirut",
+        "name": "Beirut Rafic Hariri International Airport"
+    },
+    "HET": {
+        "country": "CN",
+        "city": "Hohhot",
+        "name": "Baita International Airport"
+    },
+    "FKB": {
+        "country": "DE",
+        "city": "Baden-Baden",
+        "name": "Karlsruhe Baden-Baden Airport"
+    },
+    "NGO": {
+        "country": "JP",
+        "city": "Tokoname",
+        "name": "Chubu Centrair International Airport"
+    },
+    "PIT": {
+        "country": "US",
+        "city": "Pittsburgh",
+        "name": "Pittsburgh International Airport"
+    },
+    "BOS": {
+        "country": "US",
+        "city": "Boston",
+        "name": "General Edward Lawrence Logan International Airport"
+    },
+    "ERI": {
+        "country": "US",
+        "city": "Erie",
+        "name": "Erie International Tom Ridge Field"
+    },
+    "AGP": {
+        "country": "ES",
+        "city": "M\u00e1laga",
+        "name": "M\u00e1laga Airport"
+    },
+    "HTS": {
+        "country": "US",
+        "city": "Huntington",
+        "name": "Tri-State/Milton J. Ferguson Field"
+    },
+    "CBR": {
+        "country": "AU",
+        "city": "Canberra",
+        "name": "Canberra International Airport"
+    },
+    "MCF": {
+        "country": "US",
+        "city": "Tampa",
+        "name": "Mac Dill Air Force Base"
+    },
+    "EMA": {
+        "country": "GB",
+        "city": "Nottingham",
+        "name": "East Midlands Airport"
+    },
+    "TLS": {
+        "country": "FR",
+        "city": "Toulouse/Blagnac",
+        "name": "Toulouse-Blagnac Airport"
+    },
+    "CWB": {
+        "country": "BR",
+        "city": "Curitiba",
+        "name": "Afonso Pena Airport"
+    },
+    "TLH": {
+        "country": "US",
+        "city": "Tallahassee",
+        "name": "Tallahassee Regional Airport"
+    },
+    "PSA": {
+        "country": "IT",
+        "city": "Pisa",
+        "name": "Pisa International Airport"
+    },
+    "SDQ": {
+        "country": "DO",
+        "city": "Santo Domingo",
+        "name": "Las Am\u00e9ricas International Airport"
+    },
+    "MEX": {
+        "country": "MX",
+        "city": "Mexico City",
+        "name": "Licenciado Benito Juarez International Airport"
+    },
+    "TPA": {
+        "country": "US",
+        "city": "Tampa",
+        "name": "Tampa International Airport"
+    },
+    "TIA": {
+        "country": "AL",
+        "city": "Tirana",
+        "name": "Tirana International Airport Mother Teresa"
+    },
+    "LTK": {
+        "country": "SY",
+        "city": "Latakia",
+        "name": "Bassel Al-Assad International Airport"
+    },
+    "TRV": {
+        "country": "IN",
+        "city": "Thiruvananthapuram",
+        "name": "Trivandrum International Airport"
+    },
+    "NWI": {
+        "country": "GB",
+        "city": "Norwich",
+        "name": "Norwich International Airport"
+    },
+    "CVG": {
+        "country": "US",
+        "city": "Cincinnati",
+        "name": "Cincinnati Northern Kentucky International Airport"
+    },
+    "ORF": {
+        "country": "US",
+        "city": "Norfolk",
+        "name": "Norfolk International Airport"
+    },
+    "CRL": {
+        "country": "BE",
+        "city": "Brussels",
+        "name": "Brussels South Charleroi Airport"
+    },
+    "ACC": {
+        "country": "GH",
+        "city": "Accra",
+        "name": "Kotoka International Airport"
+    },
+    "SCQ": {
+        "country": "ES",
+        "city": "Santiago de Compostela",
+        "name": "Santiago de Compostela Airport"
+    },
+    "SEA": {
+        "country": "US",
+        "city": "Seattle",
+        "name": "Seattle Tacoma International Airport"
+    },
+    "DHA": {
+        "country": "SA",
+        "city": "",
+        "name": "King Abdulaziz Air Base"
+    },
+    "DME": {
+        "country": "RU",
+        "city": "Moscow",
+        "name": "Domodedovo International Airport"
+    },
+    "NRT": {
+        "country": "JP",
+        "city": "Tokyo",
+        "name": "Narita International Airport"
+    },
+    "OPO": {
+        "country": "PT",
+        "city": "Porto",
+        "name": "Francisco de S\u00e1 Carneiro Airport"
+    },
+    "GLA": {
+        "country": "GB",
+        "city": "Glasgow",
+        "name": "Glasgow International Airport"
+    },
+    "RRG": {
+        "country": "MU",
+        "city": "Port Mathurin",
+        "name": "Sir Charles Gaetan Duval Airport"
+    },
+    "EDI": {
+        "country": "GB",
+        "city": "Edinburgh",
+        "name": "Edinburgh Airport"
+    },
+    "SKT": {
+        "country": "PK",
+        "city": "Sialkot",
+        "name": "Sialkot Airport"
+    },
+    "ALC": {
+        "country": "ES",
+        "city": "Alicante",
+        "name": "Alicante International Airport"
+    },
+    "NNG": {
+        "country": "CN",
+        "city": "Nanning",
+        "name": "Nanning Wuxu Airport"
+    },
+    "KOJ": {
+        "country": "JP",
+        "city": "Kagoshima",
+        "name": "Kagoshima Airport"
+    },
+    "WAW": {
+        "country": "PL",
+        "city": "Warsaw",
+        "name": "Warsaw Chopin Airport"
+    },
+    "PUJ": {
+        "country": "DO",
+        "city": "Punta Cana",
+        "name": "Punta Cana International Airport"
+    },
+    "PPE": {
+        "country": "MX",
+        "city": "Puerto Pe\u00f1asco",
+        "name": "Mar de Cort\u00e9s International Airport"
+    },
+    "LFI": {
+        "country": "US",
+        "city": "Hampton",
+        "name": "Langley Air Force Base"
+    },
+    "JED": {
+        "country": "SA",
+        "city": "Jeddah",
+        "name": "King Abdulaziz International Airport"
+    },
+    "HER": {
+        "country": "GR",
+        "city": "Heraklion",
+        "name": "Heraklion International Nikos Kazantzakis Airport"
+    },
+    "MSQ": {
+        "country": "BY",
+        "city": "Minsk",
+        "name": "Minsk National Airport"
+    },
+    "DLM": {
+        "country": "TR",
+        "city": "Dalaman",
+        "name": "Dalaman International Airport"
+    },
+    "YYJ": {
+        "country": "CA",
+        "city": "Victoria",
+        "name": "Victoria International Airport"
+    },
+    "MAA": {
+        "country": "IN",
+        "city": "Chennai",
+        "name": "Chennai International Airport"
+    },
+    "ISE": {
+        "country": "TR",
+        "city": "Isparta",
+        "name": "S\u00fcleyman Demirel International Airport"
+    },
+    "CUN": {
+        "country": "MX",
+        "city": "Canc\u00fan",
+        "name": "Canc\u00fan International Airport"
+    },
+    "EXT": {
+        "country": "GB",
+        "city": "Exeter",
+        "name": "Exeter International Airport"
+    },
+    "DXB": {
+        "country": "AE",
+        "city": "Dubai",
+        "name": "Dubai International Airport"
+    },
+    "EWR": {
+        "country": "US",
+        "city": "Newark",
+        "name": "Newark Liberty International Airport"
+    },
+    "ORK": {
+        "country": "IE",
+        "city": "Cork",
+        "name": "Cork Airport"
+    },
+    "HRB": {
+        "country": "CN",
+        "city": "Harbin",
+        "name": "Taiping Airport"
+    },
+    "SBN": {
+        "country": "US",
+        "city": "South Bend",
+        "name": "South Bend Regional Airport"
+    },
+    "CHS": {
+        "country": "US",
+        "city": "Charleston",
+        "name": "Charleston Air Force Base-International Airport"
+    },
+    "RMS": {
+        "country": "DE",
+        "city": "Ramstein",
+        "name": "Ramstein Air Base"
+    },
+    "VRA": {
+        "country": "CU",
+        "city": "Varadero",
+        "name": "Juan Gualberto Gomez International Airport"
+    },
+    "LIS": {
+        "country": "PT",
+        "city": "Lisbon",
+        "name": "Lisbon Portela Airport"
+    },
+    "ZIA": {
+        "country": "RU",
+        "city": "Zhukovsky",
+        "name": "Zhukovsky International Airport"
+    },
+    "ADL": {
+        "country": "AU",
+        "city": "Adelaide",
+        "name": "Adelaide International Airport"
+    },
+    "RDU": {
+        "country": "US",
+        "city": "Raleigh/Durham",
+        "name": "Raleigh Durham International Airport"
+    },
+    "UIO": {
+        "country": "EC",
+        "city": "Quito",
+        "name": "Mariscal Sucre International Airport"
+    },
+    "EVN": {
+        "country": "AM",
+        "city": "Yerevan",
+        "name": "Zvartnots International Airport"
+    },
+    "FRA": {
+        "country": "DE",
+        "city": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+    },
+    "HNL": {
+        "country": "US",
+        "city": "Honolulu",
+        "name": "Daniel K Inouye International Airport"
+    },
+    "OKA": {
+        "country": "JP",
+        "city": "Naha",
+        "name": "Naha Airport"
+    },
+    "BLQ": {
+        "country": "IT",
+        "city": "Bologna",
+        "name": "Bologna Guglielmo Marconi Airport"
+    },
+    "PHX": {
+        "country": "US",
+        "city": "Phoenix",
+        "name": "Phoenix Sky Harbor International Airport"
+    },
+    "CHC": {
+        "country": "NZ",
+        "city": "Christchurch",
+        "name": "Christchurch International Airport"
+    },
+    "MIA": {
+        "country": "US",
+        "city": "Miami",
+        "name": "Miami International Airport"
+    },
+    "AYT": {
+        "country": "TR",
+        "city": "Antalya",
+        "name": "Antalya International Airport"
+    },
+    "BEL": {
+        "country": "BR",
+        "city": "Bel\u00e9m",
+        "name": "Val de Cans/J\u00falio Cezar Ribeiro International Airport"
+    },
+    "HKT": {
+        "country": "TH",
+        "city": "Phuket",
+        "name": "Phuket International Airport"
+    },
+    "DSS": {
+        "country": "SN",
+        "city": "Dakar",
+        "name": "Diass-Thies Blaise Diagne International Airport"
+    },
+    "CTU": {
+        "country": "CN",
+        "city": "Chengdu",
+        "name": "Chengdu Shuangliu International Airport"
+    },
+    "CSX": {
+        "country": "CN",
+        "city": "Changsha",
+        "name": "Changsha Huanghua International Airport"
+    },
+    "BJV": {
+        "country": "TR",
+        "city": "Bodrum",
+        "name": "Milas Bodrum International Airport"
+    },
+    "DBQ": {
+        "country": "US",
+        "city": "Dubuque",
+        "name": "Dubuque Regional Airport"
+    },
+    "DUS": {
+        "country": "DE",
+        "city": "D\u00fcsseldorf",
+        "name": "D\u00fcsseldorf Airport"
+    },
+    "CWL": {
+        "country": "GB",
+        "city": "Cardiff",
+        "name": "Cardiff International Airport"
+    },
+    "LLA": {
+        "country": "SE",
+        "city": "Lule\u00e5",
+        "name": "Lule\u00e5 Airport"
+    },
+    "CRK": {
+        "country": "PH",
+        "city": "Angeles City",
+        "name": "Clark International Airport"
+    },
+    "YHZ": {
+        "country": "CA",
+        "city": "Halifax",
+        "name": "Halifax / Stanfield International Airport"
+    },
+    "KHH": {
+        "country": "TW",
+        "city": "Kaohsiung City",
+        "name": "Kaohsiung International Airport"
+    },
+    "XIY": {
+        "country": "CN",
+        "city": "Xi'an",
+        "name": "Xi'an Xianyang International Airport"
+    },
+    "ZAG": {
+        "country": "HR",
+        "city": "Zagreb",
+        "name": "Zagreb Airport"
+    },
+    "BSR": {
+        "country": "IQ",
+        "city": "Basrah",
+        "name": "Basrah International Airport"
+    },
+    "BNA": {
+        "country": "US",
+        "city": "Nashville",
+        "name": "Nashville International Airport"
+    },
+    "DVO": {
+        "country": "PH",
+        "city": "Davao City",
+        "name": "Francisco Bangoy International Airport"
+    },
+    "GCM": {
+        "country": "KY",
+        "city": "Georgetown",
+        "name": "Owen Roberts International Airport"
+    },
+    "SAN": {
+        "country": "US",
+        "city": "San Diego",
+        "name": "San Diego International Airport"
+    },
+    "AMM": {
+        "country": "JO",
+        "city": "Amman",
+        "name": "Queen Alia International Airport"
+    },
+    "CNX": {
+        "country": "TH",
+        "city": "Chiang Mai",
+        "name": "Chiang Mai International Airport"
+    },
+    "AKL": {
+        "country": "NZ",
+        "city": "Auckland",
+        "name": "Auckland International Airport"
+    },
+    "GPT": {
+        "country": "US",
+        "city": "Gulfport",
+        "name": "Gulfport Biloxi International Airport"
+    },
+    "GRV": {
+        "country": "RU",
+        "city": "Grozny",
+        "name": "Grozny North Airport"
+    },
+    "BFS": {
+        "country": "GB",
+        "city": "Belfast",
+        "name": "Belfast International Airport"
+    },
+    "JNB": {
+        "country": "ZA",
+        "city": "Johannesburg",
+        "name": "OR Tambo International Airport"
+    },
+    "MCO": {
+        "country": "US",
+        "city": "Orlando",
+        "name": "Orlando International Airport"
+    },
+    "MAN": {
+        "country": "GB",
+        "city": "Manchester",
+        "name": "Manchester Airport"
+    },
+    "DLF": {
+        "country": "US",
+        "city": "Del Rio",
+        "name": "Laughlin Air Force Base"
+    },
+    "CPR": {
+        "country": "US",
+        "city": "Casper",
+        "name": "Casper-Natrona County International Airport"
+    },
+    "LBA": {
+        "country": "GB",
+        "city": "Leeds",
+        "name": "Leeds Bradford Airport"
+    },
+    "HAN": {
+        "country": "VN",
+        "city": "Hanoi",
+        "name": "Noi Bai International Airport"
+    },
+    "LIM": {
+        "country": "PE",
+        "city": "Lima",
+        "name": "Jorge Ch\u00e1vez International Airport"
+    },
+    "VPS": {
+        "country": "US",
+        "city": "Valparaiso",
+        "name": "Destin-Ft Walton Beach Airport"
+    },
+    "PDL": {
+        "country": "PT",
+        "city": "Ponta Delgada",
+        "name": "Jo\u00e3o Paulo II Airport"
+    },
+    "ISB": {
+        "country": "PK",
+        "city": "Islamabad",
+        "name": "Benazir Bhutto International Airport"
+    },
+    "POZ": {
+        "country": "PL",
+        "city": "Pozna\u0144",
+        "name": "Pozna\u0144-\u0141awica Airport"
+    },
+    "KNH": {
+        "country": "TW",
+        "city": "Shang-I",
+        "name": "Kinmen Airport"
+    },
+    "DAL": {
+        "country": "US",
+        "city": "Dallas",
+        "name": "Dallas Love Field"
+    },
+    "NBO": {
+        "country": "KE",
+        "city": "Nairobi",
+        "name": "Jomo Kenyatta International Airport"
+    },
+    "KMG": {
+        "country": "CN",
+        "city": "Kunming",
+        "name": "Kunming Changshui International Airport"
+    },
+    "VBG": {
+        "country": "US",
+        "city": "Lompoc",
+        "name": "Vandenberg Air Force Base"
+    },
+    "TOL": {
+        "country": "US",
+        "city": "Toledo",
+        "name": "Toledo Express Airport"
+    },
+    "YEG": {
+        "country": "CA",
+        "city": "Edmonton",
+        "name": "Edmonton International Airport"
+    },
+    "ZRH": {
+        "country": "CH",
+        "city": "Zurich",
+        "name": "Z\u00fcrich Airport"
+    },
+    "KWL": {
+        "country": "CN",
+        "city": "Guilin City",
+        "name": "Guilin Liangjiang International Airport"
+    },
+    "LIT": {
+        "country": "US",
+        "city": "Little Rock",
+        "name": "Bill & Hillary Clinton National Airport/Adams Field"
+    },
+    "GIG": {
+        "country": "BR",
+        "city": "Rio De Janeiro",
+        "name": "Rio Gale\u00e3o \u2013 Tom Jobim International Airport"
+    },
+    "ABV": {
+        "country": "NG",
+        "city": "Abuja",
+        "name": "Nnamdi Azikiwe International Airport"
+    },
+    "PRG": {
+        "country": "CZ",
+        "city": "Prague",
+        "name": "V\u00e1clav Havel Airport Prague"
+    },
+    "MGM": {
+        "country": "US",
+        "city": "Montgomery",
+        "name": "Montgomery Regional (Dannelly Field) Airport"
+    },
+    "LCK": {
+        "country": "US",
+        "city": "Columbus",
+        "name": "Rickenbacker International Airport"
+    },
+    "DOK": {
+        "country": "UA",
+        "city": "Donetsk",
+        "name": "Donetsk International Airport"
+    },
+    "SUB": {
+        "country": "ID",
+        "city": "Surabaya",
+        "name": "Juanda International Airport"
+    },
+    "LPL": {
+        "country": "GB",
+        "city": "Liverpool",
+        "name": "Liverpool John Lennon Airport"
+    },
+    "ICN": {
+        "country": "KR",
+        "city": "Seoul",
+        "name": "Incheon International Airport"
+    },
+    "CGH": {
+        "country": "BR",
+        "city": "S\u00e3o Paulo",
+        "name": "Congonhas Airport"
+    },
+    "PDX": {
+        "country": "US",
+        "city": "Portland",
+        "name": "Portland International Airport"
+    },
+    "BWN": {
+        "country": "BN",
+        "city": "Bandar Seri Begawan",
+        "name": "Brunei International Airport"
+    },
+    "CAE": {
+        "country": "US",
+        "city": "Columbia",
+        "name": "Columbia Metropolitan Airport"
+    },
+    "JAN": {
+        "country": "US",
+        "city": "Jackson",
+        "name": "Jackson-Medgar Wiley Evers International Airport"
+    },
+    "AFW": {
+        "country": "US",
+        "city": "Fort Worth",
+        "name": "Fort Worth Alliance Airport"
+    },
+    "KGF": {
+        "country": "KZ",
+        "city": "Karaganda",
+        "name": "Sary-Arka Airport"
+    },
+    "TIP": {
+        "country": "LY",
+        "city": "Tripoli",
+        "name": "Tripoli International Airport"
+    },
+    "FAO": {
+        "country": "PT",
+        "city": "Faro",
+        "name": "Faro Airport"
+    },
+    "JAX": {
+        "country": "US",
+        "city": "Jacksonville",
+        "name": "Jacksonville International Airport"
+    },
+    "ALA": {
+        "country": "KZ",
+        "city": "Almaty",
+        "name": "Almaty Airport"
+    },
+    "BGO": {
+        "country": "NO",
+        "city": "Bergen",
+        "name": "Bergen Airport Flesland"
+    },
+    "BAD": {
+        "country": "US",
+        "city": "Bossier City",
+        "name": "Barksdale Air Force Base"
+    },
+    "KJA": {
+        "country": "RU",
+        "city": "Krasnoyarsk",
+        "name": "Yemelyanovo Airport"
+    },
+    "ALG": {
+        "country": "DZ",
+        "city": "Algiers",
+        "name": "Houari Boumediene Airport"
+    },
+    "MNH": {
+        "country": "OM",
+        "city": "Al Masna'ah",
+        "name": "Rustaq Airport"
+    },
+    "SJU": {
+        "country": "PR",
+        "city": "San Juan",
+        "name": "Luis Munoz Marin International Airport"
+    },
+    "SNN": {
+        "country": "IE",
+        "city": "Limerick",
+        "name": "Shannon Airport"
+    },
+    "SJD": {
+        "country": "MX",
+        "city": "San Jos\u00e9 del Cabo",
+        "name": "Los Cabos International Airport"
+    },
+    "TPE": {
+        "country": "TW",
+        "city": "Taipei",
+        "name": "Taiwan Taoyuan International Airport"
+    },
+    "EZE": {
+        "country": "AR",
+        "city": "Buenos Aires",
+        "name": "Ministro Pistarini International Airport"
+    },
+    "BAH": {
+        "country": "BH",
+        "city": "Manama",
+        "name": "Bahrain International Airport"
+    },
+    "BZZ": {
+        "country": "GB",
+        "city": "Brize Norton",
+        "name": "RAF Brize Norton"
+    },
+    "CJU": {
+        "country": "KR",
+        "city": "Jeju City",
+        "name": "Jeju International Airport"
+    },
+    "BFI": {
+        "country": "US",
+        "city": "Seattle",
+        "name": "Boeing Field King County International Airport"
+    },
+    "CNF": {
+        "country": "BR",
+        "city": "Belo Horizonte",
+        "name": "Tancredo Neves International Airport"
+    },
+    "MHD": {
+        "country": "IR",
+        "city": "Mashhad",
+        "name": "Mashhad International Airport"
+    },
+    "BNE": {
+        "country": "AU",
+        "city": "Brisbane",
+        "name": "Brisbane International Airport"
+    },
+    "ATH": {
+        "country": "GR",
+        "city": "Athens",
+        "name": "Eleftherios Venizelos International Airport"
+    },
+    "KTW": {
+        "country": "PL",
+        "city": "Katowice",
+        "name": "Katowice International Airport"
+    },
+    "KNO": {
+        "country": "ID",
+        "city": "",
+        "name": "Kualanamu International Airport"
+    },
+    "DAB": {
+        "country": "US",
+        "city": "Daytona Beach",
+        "name": "Daytona Beach International Airport"
+    },
+    "FCO": {
+        "country": "IT",
+        "city": "Rome",
+        "name": "Leonardo da Vinci\u2013Fiumicino Airport"
+    },
+    "SFB": {
+        "country": "US",
+        "city": "Orlando",
+        "name": "Orlando Sanford International Airport"
+    },
+    "MMX": {
+        "country": "SE",
+        "city": "Malm\u00f6",
+        "name": "Malm\u00f6 Sturup Airport"
+    },
+    "EDW": {
+        "country": "US",
+        "city": "Edwards",
+        "name": "Edwards Air Force Base"
+    },
+    "SIP": {
+        "country": "UA",
+        "city": "Simferopol",
+        "name": "Simferopol International Airport"
+    },
+    "SYR": {
+        "country": "US",
+        "city": "Syracuse",
+        "name": "Syracuse Hancock International Airport"
+    },
+    "SAT": {
+        "country": "US",
+        "city": "San Antonio",
+        "name": "San Antonio International Airport"
+    },
+    "HAK": {
+        "country": "CN",
+        "city": "Haikou",
+        "name": "Haikou Meilan International Airport"
+    },
+    "NCL": {
+        "country": "GB",
+        "city": "Newcastle",
+        "name": "Newcastle Airport"
+    },
+    "RAR": {
+        "country": "CK",
+        "city": "Avarua",
+        "name": "Rarotonga International Airport"
+    },
+    "RIC": {
+        "country": "US",
+        "city": "Richmond",
+        "name": "Richmond International Airport"
+    },
+    "GOT": {
+        "country": "SE",
+        "city": "Gothenburg",
+        "name": "Gothenburg-Landvetter Airport"
+    },
+    "STL": {
+        "country": "US",
+        "city": "St Louis",
+        "name": "St Louis Lambert International Airport"
+    },
+    "NAP": {
+        "country": "IT",
+        "city": "N\u00e1poli",
+        "name": "Naples International Airport"
+    },
+    "FSM": {
+        "country": "US",
+        "city": "Fort Smith",
+        "name": "Fort Smith Regional Airport"
+    },
+    "BCN": {
+        "country": "ES",
+        "city": "Barcelona",
+        "name": "Barcelona International Airport"
+    },
+    "ARN": {
+        "country": "SE",
+        "city": "Stockholm",
+        "name": "Stockholm-Arlanda Airport"
+    },
+    "MTY": {
+        "country": "MX",
+        "city": "Monterrey",
+        "name": "General Mariano Escobedo International Airport"
+    },
+    "ACA": {
+        "country": "MX",
+        "city": "Acapulco",
+        "name": "General Juan N Alvarez International Airport"
+    },
+    "LJU": {
+        "country": "SI",
+        "city": "Ljubljana",
+        "name": "Ljubljana Jo\u017ee Pu\u010dnik Airport"
+    },
+    "DLC": {
+        "country": "CN",
+        "city": "Dalian",
+        "name": "Zhoushuizi Airport"
+    },
+    "OKC": {
+        "country": "US",
+        "city": "Oklahoma City",
+        "name": "Will Rogers World Airport"
+    },
+    "SZX": {
+        "country": "CN",
+        "city": "Shenzhen",
+        "name": "Shenzhen Bao'an International Airport"
+    },
+    "LXR": {
+        "country": "EG",
+        "city": "Luxor",
+        "name": "Luxor International Airport"
+    },
+    "DUR": {
+        "country": "ZA",
+        "city": "Durban",
+        "name": "King Shaka International Airport"
+    },
+    "GOI": {
+        "country": "IN",
+        "city": "Vasco da Gama",
+        "name": "Dabolim Airport"
+    },
+    "SVO": {
+        "country": "RU",
+        "city": "Moscow",
+        "name": "Sheremetyevo International Airport"
+    },
+    "DAY": {
+        "country": "US",
+        "city": "Dayton",
+        "name": "James M Cox Dayton International Airport"
+    },
+    "MLI": {
+        "country": "US",
+        "city": "Moline",
+        "name": "Quad City International Airport"
+    },
+    "PMI": {
+        "country": "ES",
+        "city": "Palma De Mallorca",
+        "name": "Palma De Mallorca Airport"
+    },
+    "SHA": {
+        "country": "CN",
+        "city": "Shanghai",
+        "name": "Shanghai Hongqiao International Airport"
+    },
+    "DPS": {
+        "country": "ID",
+        "city": "Denpasar-Bali Island",
+        "name": "Ngurah Rai (Bali) International Airport"
+    },
+    "DSM": {
+        "country": "US",
+        "city": "Des Moines",
+        "name": "Des Moines International Airport"
+    },
+    "CBM": {
+        "country": "US",
+        "city": "Columbus",
+        "name": "Columbus Air Force Base"
+    },
+    "RIX": {
+        "country": "LV",
+        "city": "Riga",
+        "name": "Riga International Airport"
+    },
+    "SOQ": {
+        "country": "ID",
+        "city": "Sorong-Papua Island",
+        "name": "Dominique Edward Osok Airport"
+    },
+    "DCA": {
+        "country": "US",
+        "city": "Washington",
+        "name": "Ronald Reagan Washington National Airport"
+    },
+    "OSN": {
+        "country": "KR",
+        "city": "",
+        "name": "Osan Air Base"
+    },
+    "CPH": {
+        "country": "DK",
+        "city": "Copenhagen",
+        "name": "Copenhagen Kastrup Airport"
+    },
+    "IKA": {
+        "country": "IR",
+        "city": "Tehran",
+        "name": "Imam Khomeini International Airport"
+    },
+    "GUS": {
+        "country": "US",
+        "city": "Peru",
+        "name": "Grissom Air Reserve Base"
+    },
+    "AUS": {
+        "country": "US",
+        "city": "Austin",
+        "name": "Austin Bergstrom International Airport"
+    },
+    "SLC": {
+        "country": "US",
+        "city": "Salt Lake City",
+        "name": "Salt Lake City International Airport"
+    },
+    "AER": {
+        "country": "RU",
+        "city": "Sochi",
+        "name": "Sochi International Airport"
+    },
+    "TIJ": {
+        "country": "MX",
+        "city": "Tijuana",
+        "name": "General Abelardo L. Rodr\u00edguez International Airport"
+    },
+    "SSC": {
+        "country": "US",
+        "city": "Sumter",
+        "name": "Shaw Air Force Base"
+    },
+    "HAJ": {
+        "country": "DE",
+        "city": "Hannover",
+        "name": "Hannover Airport"
+    },
+    "CPT": {
+        "country": "ZA",
+        "city": "Cape Town",
+        "name": "Cape Town International Airport"
+    },
+    "AAL": {
+        "country": "DK",
+        "city": "Aalborg",
+        "name": "Aalborg Airport"
+    },
+    "GMP": {
+        "country": "KR",
+        "city": "Seoul",
+        "name": "Gimpo International Airport"
+    },
+    "PMO": {
+        "country": "IT",
+        "city": "Palermo",
+        "name": "Falcone\u2013Borsellino Airport"
+    },
+    "PTP": {
+        "country": "GP",
+        "city": "Pointe-\u00e0-Pitre",
+        "name": "Pointe-\u00e0-Pitre Le Raizet"
+    },
+    "POM": {
+        "country": "PG",
+        "city": "Port Moresby",
+        "name": "Port Moresby Jacksons International Airport"
+    },
+    "CTS": {
+        "country": "JP",
+        "city": "Chitose / Tomakomai",
+        "name": "New Chitose Airport"
+    },
+    "TBS": {
+        "country": "GE",
+        "city": "Tbilisi",
+        "name": "Tbilisi International Airport"
+    },
+    "KUF": {
+        "country": "RU",
+        "city": "Samara",
+        "name": "Kurumoch International Airport"
+    },
+    "TSE": {
+        "country": "KZ",
+        "city": "Astana",
+        "name": "Astana International Airport"
+    },
+    "CCJ": {
+        "country": "IN",
+        "city": "Calicut",
+        "name": "Calicut International Airport"
+    },
+    "TCM": {
+        "country": "US",
+        "city": "Tacoma",
+        "name": "McChord Air Force Base"
+    },
+    "DTW": {
+        "country": "US",
+        "city": "Detroit",
+        "name": "Detroit Metropolitan Wayne County Airport"
+    },
+    "ICT": {
+        "country": "US",
+        "city": "Wichita",
+        "name": "Wichita Mid Continent Airport"
+    },
+    "FMO": {
+        "country": "DE",
+        "city": "M\u00fcnster",
+        "name": "M\u00fcnster Osnabr\u00fcck Airport"
+    },
+    "CHA": {
+        "country": "US",
+        "city": "Chattanooga",
+        "name": "Lovell Field"
+    },
+    "PIA": {
+        "country": "US",
+        "city": "Peoria",
+        "name": "General Wayne A. Downing Peoria International Airport"
+    },
+    "SXM": {
+        "country": "SX",
+        "city": "Saint Martin",
+        "name": "Princess Juliana International Airport"
+    },
+    "TUL": {
+        "country": "US",
+        "city": "Tulsa",
+        "name": "Tulsa International Airport"
+    },
+    "MKE": {
+        "country": "US",
+        "city": "Milwaukee",
+        "name": "General Mitchell International Airport"
+    },
+    "TFS": {
+        "country": "ES",
+        "city": "Tenerife Island",
+        "name": "Tenerife South Airport"
+    },
+    "BGR": {
+        "country": "US",
+        "city": "Bangor",
+        "name": "Bangor International Airport"
+    },
+    "TRN": {
+        "country": "IT",
+        "city": "Torino",
+        "name": "Turin Airport"
+    },
+    "STR": {
+        "country": "DE",
+        "city": "Stuttgart",
+        "name": "Stuttgart Airport"
+    },
+    "KBP": {
+        "country": "UA",
+        "city": "Kiev",
+        "name": "Boryspil International Airport"
+    },
+    "TLV": {
+        "country": "IL",
+        "city": "Tel Aviv",
+        "name": "Ben Gurion International Airport"
+    },
+    "MBA": {
+        "country": "KE",
+        "city": "Mombasa",
+        "name": "Mombasa Moi International Airport"
+    },
+    "TRI": {
+        "country": "US",
+        "city": "Bristol/Johnson/Kingsport",
+        "name": "Tri-Cities Regional TN/VA Airport"
+    },
+    "SUX": {
+        "country": "US",
+        "city": "Sioux City",
+        "name": "Sioux Gateway Col. Bud Day Field"
+    },
+    "BGW": {
+        "country": "IQ",
+        "city": "Baghdad",
+        "name": "Baghdad International Airport"
+    },
+    "PBI": {
+        "country": "US",
+        "city": "West Palm Beach",
+        "name": "Palm Beach International Airport"
+    },
+    "CMB": {
+        "country": "LK",
+        "city": "Colombo",
+        "name": "Bandaranaike International Colombo Airport"
+    },
+    "BMI": {
+        "country": "US",
+        "city": "Bloomington/Normal",
+        "name": "Central Illinois Regional Airport at Bloomington-Normal"
+    },
+    "LAX": {
+        "country": "US",
+        "city": "Los Angeles",
+        "name": "Los Angeles International Airport"
+    },
+    "LGG": {
+        "country": "BE",
+        "city": "Li\u00e8ge",
+        "name": "Li\u00e8ge Airport"
+    },
+    "MSY": {
+        "country": "US",
+        "city": "New Orleans",
+        "name": "Louis Armstrong New Orleans International Airport"
+    },
+    "GSP": {
+        "country": "US",
+        "city": "Greenville",
+        "name": "Greenville Spartanburg International Airport"
+    },
+    "PTY": {
+        "country": "PA",
+        "city": "Tocumen",
+        "name": "Tocumen International Airport"
+    },
+    "HOU": {
+        "country": "US",
+        "city": "Houston",
+        "name": "William P Hobby Airport"
+    },
+    "KIX": {
+        "country": "JP",
+        "city": "Osaka",
+        "name": "Kansai International Airport"
+    },
+    "SCL": {
+        "country": "CL",
+        "city": "Santiago",
+        "name": "Comodoro Arturo Merino Ben\u00edtez International Airport"
+    },
+    "DTM": {
+        "country": "DE",
+        "city": "Dortmund",
+        "name": "Dortmund Airport"
+    },
+    "JNJ": {
+        "country": "OM",
+        "city": "Duqm",
+        "name": "Duqm Jaaluni Airport"
+    },
+    "LTX": {
+        "country": "EC",
+        "city": "Latacunga",
+        "name": "Cotopaxi International Airport"
+    },
+    "SPI": {
+        "country": "US",
+        "city": "Springfield",
+        "name": "Abraham Lincoln Capital Airport"
+    },
+    "CAI": {
+        "country": "EG",
+        "city": "Cairo",
+        "name": "Cairo International Airport"
+    },
+    "DAD": {
+        "country": "VN",
+        "city": "Da Nang",
+        "name": "Da Nang International Airport"
+    },
+    "BUD": {
+        "country": "HU",
+        "city": "Budapest",
+        "name": "Budapest Ferenc Liszt International Airport"
+    },
+    "TZX": {
+        "country": "TR",
+        "city": "Trabzon",
+        "name": "Trabzon International Airport"
+    },
+    "SOF": {
+        "country": "BG",
+        "city": "Sofia",
+        "name": "Sofia Airport"
+    },
+    "BWI": {
+        "country": "US",
+        "city": "Baltimore",
+        "name": "Baltimore/Washington International Thurgood Marshall Airport"
+    },
+    "LKZ": {
+        "country": "GB",
+        "city": "Lakenheath",
+        "name": "RAF Lakenheath"
+    },
+    "MED": {
+        "country": "SA",
+        "city": "Medina",
+        "name": "Prince Mohammad Bin Abdulaziz Airport"
+    },
+    "BOD": {
+        "country": "FR",
+        "city": "Bordeaux/M\u00e9rignac",
+        "name": "Bordeaux-M\u00e9rignac Airport"
+    },
+    "ADW": {
+        "country": "US",
+        "city": "Camp Springs",
+        "name": "Andrews Air Force Base"
+    },
+    "SKA": {
+        "country": "US",
+        "city": "Spokane",
+        "name": "Fairchild Air Force Base"
+    },
+    "GZT": {
+        "country": "TR",
+        "city": "Gaziantep",
+        "name": "Gaziantep International Airport"
+    },
+    "BRU": {
+        "country": "BE",
+        "city": "Brussels",
+        "name": "Brussels Airport"
+    },
+    "LTN": {
+        "country": "GB",
+        "city": "London",
+        "name": "London Luton Airport"
+    },
+    "VRN": {
+        "country": "IT",
+        "city": "Verona",
+        "name": "Verona Villafranca Airport"
+    },
+    "GDL": {
+        "country": "MX",
+        "city": "Guadalajara",
+        "name": "Don Miguel Hidalgo Y Costilla International Airport"
+    },
+    "HAM": {
+        "country": "DE",
+        "city": "Hamburg",
+        "name": "Hamburg Airport"
+    },
+    "ORY": {
+        "country": "FR",
+        "city": "Paris",
+        "name": "Paris-Orly Airport"
+    },
+    "MFM": {
+        "country": "MO",
+        "city": "Macau",
+        "name": "Macau International Airport"
+    },
+    "YWG": {
+        "country": "CA",
+        "city": "Winnipeg",
+        "name": "Winnipeg / James Armstrong Richardson International Airport"
+    },
+    "WRB": {
+        "country": "US",
+        "city": "Warner Robins",
+        "name": "Robins Air Force Base"
+    },
+    "CVS": {
+        "country": "US",
+        "city": "Clovis",
+        "name": "Cannon Air Force Base"
+    },
+    "BUF": {
+        "country": "US",
+        "city": "Buffalo",
+        "name": "Buffalo Niagara International Airport"
+    },
+    "IAD": {
+        "country": "US",
+        "city": "Washington",
+        "name": "Washington Dulles International Airport"
+    },
+    "TSN": {
+        "country": "CN",
+        "city": "Tianjin",
+        "name": "Tianjin Binhai International Airport"
+    },
+    "MWX": {
+        "country": "KR",
+        "city": "Piseo-ri (Muan)",
+        "name": "Muan International Airport"
+    },
+    "SGF": {
+        "country": "US",
+        "city": "Springfield",
+        "name": "Springfield Branson National Airport"
+    },
+    "MSP": {
+        "country": "US",
+        "city": "Minneapolis",
+        "name": "Minneapolis-St Paul International/Wold-Chamberlain Airport"
+    },
+    "BRE": {
+        "country": "DE",
+        "city": "Bremen",
+        "name": "Bremen Airport"
+    },
+    "PWM": {
+        "country": "US",
+        "city": "Portland",
+        "name": "Portland International Jetport Airport"
+    },
+    "BHX": {
+        "country": "GB",
+        "city": "Birmingham",
+        "name": "Birmingham International Airport"
+    },
+    "DEN": {
+        "country": "US",
+        "city": "Denver",
+        "name": "Denver International Airport"
+    },
+    "YOW": {
+        "country": "CA",
+        "city": "Ottawa",
+        "name": "Ottawa Macdonald-Cartier International Airport"
+    },
+    "AKT": {
+        "country": "GB",
+        "city": "Akrotiri",
+        "name": "RAF Akrotiri"
+    },
+    "ROV": {
+        "country": "RU",
+        "city": "Rostov-on-Don",
+        "name": "Rostov-on-Don Airport"
+    },
+    "KRT": {
+        "country": "SD",
+        "city": "Khartoum",
+        "name": "Khartoum International Airport"
+    },
+    "VCE": {
+        "country": "IT",
+        "city": "Venice",
+        "name": "Venice Marco Polo Airport"
+    },
+    "HRK": {
+        "country": "UA",
+        "city": "Kharkiv",
+        "name": "Kharkiv International Airport"
+    },
+    "YYC": {
+        "country": "CA",
+        "city": "Calgary",
+        "name": "Calgary International Airport"
+    },
+    "OAK": {
+        "country": "US",
+        "city": "Oakland",
+        "name": "Metropolitan Oakland International Airport"
+    },
+    "WUH": {
+        "country": "CN",
+        "city": "Wuhan",
+        "name": "Wuhan Tianhe International Airport"
+    },
+    "EIN": {
+        "country": "NL",
+        "city": "Eindhoven",
+        "name": "Eindhoven Airport"
+    },
+    "DSA": {
+        "country": "GB",
+        "city": "Doncaster",
+        "name": "Robin Hood Doncaster Sheffield Airport"
+    },
+    "VIE": {
+        "country": "AT",
+        "city": "Vienna",
+        "name": "Vienna International Airport"
+    },
+    "SSA": {
+        "country": "BR",
+        "city": "Salvador",
+        "name": "Deputado Luiz Eduardo Magalh\u00e3es International Airport"
+    },
+    "RSW": {
+        "country": "US",
+        "city": "Fort Myers",
+        "name": "Southwest Florida International Airport"
+    },
+    "HMN": {
+        "country": "US",
+        "city": "Alamogordo",
+        "name": "Holloman Air Force Base"
+    },
+    "DNA": {
+        "country": "JP",
+        "city": "",
+        "name": "Kadena Air Base"
+    },
+    "DMM": {
+        "country": "SA",
+        "city": "Ad Dammam",
+        "name": "King Fahd International Airport"
+    },
+    "YYT": {
+        "country": "CA",
+        "city": "St. John's",
+        "name": "St. John's International Airport"
+    },
+    "MAD": {
+        "country": "ES",
+        "city": "Madrid",
+        "name": "Adolfo Su\u00e1rez Madrid\u2013Barajas Airport"
+    },
+    "BOI": {
+        "country": "US",
+        "city": "Boise",
+        "name": "Boise Air Terminal/Gowen field"
+    },
+    "BOG": {
+        "country": "CO",
+        "city": "Bogota",
+        "name": "El Dorado International Airport"
+    },
+    "PVG": {
+        "country": "CN",
+        "city": "Shanghai",
+        "name": "Shanghai Pudong International Airport"
+    },
+    "BLR": {
+        "country": "IN",
+        "city": "Bangalore",
+        "name": "Kempegowda International Airport"
+    },
+    "KWI": {
+        "country": "KW",
+        "city": "Kuwait City",
+        "name": "Kuwait International Airport"
+    },
+    "HIB": {
+        "country": "US",
+        "city": "Hibbing",
+        "name": "Range Regional Airport"
+    },
+    "BTS": {
+        "country": "SK",
+        "city": "Bratislava",
+        "name": "M. R. \u0160tef\u00e1nik Airport"
+    },
+    "IAH": {
+        "country": "US",
+        "city": "Houston",
+        "name": "George Bush Intercontinental Houston Airport"
+    },
+    "CGK": {
+        "country": "ID",
+        "city": "Jakarta",
+        "name": "Soekarno-Hatta International Airport"
+    },
+    "KIN": {
+        "country": "JM",
+        "city": "Kingston",
+        "name": "Norman Manley International Airport"
+    },
+    "MLE": {
+        "country": "MV",
+        "city": "Mal\u00e9",
+        "name": "Mal\u00e9 International Airport"
+    },
+    "TBZ": {
+        "country": "IR",
+        "city": "Tabriz",
+        "name": "Tabriz International Airport"
+    },
+    "VAR": {
+        "country": "BG",
+        "city": "Varna",
+        "name": "Varna Airport"
+    },
+    "BTR": {
+        "country": "US",
+        "city": "Baton Rouge",
+        "name": "Baton Rouge Metropolitan, Ryan Field"
+    },
+    "SJJ": {
+        "country": "BA",
+        "city": "Sarajevo",
+        "name": "Sarajevo International Airport"
+    },
+    "LPA": {
+        "country": "ES",
+        "city": "Gran Canaria Island",
+        "name": "Gran Canaria Airport"
+    },
+    "NKC": {
+        "country": "MR",
+        "city": "Nouakchott",
+        "name": "Nouakchott\u2013Oumtounsy International Airport"
+    },
+    "HRI": {
+        "country": "LK",
+        "city": "",
+        "name": "Mattala Rajapaksa International Airport"
+    },
+    "PRN": {
+        "country": "XK",
+        "city": "Prishtina",
+        "name": "Pri\u0161tina International Airport"
+    },
+    "TOS": {
+        "country": "NO",
+        "city": "Troms\u00f8",
+        "name": "Troms\u00f8 Airport"
+    },
+    "MLU": {
+        "country": "US",
+        "city": "Monroe",
+        "name": "Monroe Regional Airport"
+    },
+    "HGH": {
+        "country": "CN",
+        "city": "Hangzhou",
+        "name": "Hangzhou Xiaoshan International Airport"
+    },
+    "TLL": {
+        "country": "EE",
+        "city": "Tallinn",
+        "name": "Lennart Meri Tallinn Airport"
+    },
+    "BLV": {
+        "country": "US",
+        "city": "Belleville",
+        "name": "Scott AFB/Midamerica Airport"
+    },
+    "AMS": {
+        "country": "NL",
+        "city": "Amsterdam",
+        "name": "Amsterdam Airport Schiphol"
+    },
+    "ABZ": {
+        "country": "GB",
+        "city": "Aberdeen",
+        "name": "Aberdeen Dyce Airport"
+    },
+    "KHV": {
+        "country": "RU",
+        "city": "Khabarovsk",
+        "name": "Khabarovsk-Novy Airport"
+    },
+    "END": {
+        "country": "US",
+        "city": "Enid",
+        "name": "Vance Air Force Base"
+    },
+    "TAS": {
+        "country": "UZ",
+        "city": "Tashkent",
+        "name": "Tashkent International Airport"
+    },
+    "TIK": {
+        "country": "US",
+        "city": "Oklahoma City",
+        "name": "Tinker Air Force Base"
+    },
+    "OSL": {
+        "country": "NO",
+        "city": "Oslo",
+        "name": "Oslo Gardermoen Airport"
+    },
+    "FTW": {
+        "country": "US",
+        "city": "Fort Worth",
+        "name": "Fort Worth Meacham International Airport"
+    },
+    "TUS": {
+        "country": "US",
+        "city": "Tucson",
+        "name": "Tucson International Airport"
+    },
+    "MXP": {
+        "country": "IT",
+        "city": "Milan",
+        "name": "Malpensa International Airport"
+    },
+    "RGN": {
+        "country": "MM",
+        "city": "Yangon",
+        "name": "Yangon International Airport"
+    },
+    "GOA": {
+        "country": "IT",
+        "city": "Genova",
+        "name": "Genoa Cristoforo Colombo Airport"
+    },
+    "HRG": {
+        "country": "EG",
+        "city": "Hurghada",
+        "name": "Hurghada International Airport"
+    },
+    "BGY": {
+        "country": "IT",
+        "city": "Bergamo",
+        "name": "Il Caravaggio International Airport"
+    },
+    "OTP": {
+        "country": "RO",
+        "city": "Bucharest",
+        "name": "Henri Coand\u0103 International Airport"
+    },
+    "ADB": {
+        "country": "TR",
+        "city": "\u0130zmir",
+        "name": "Adnan Menderes International Airport"
+    },
+    "NAT": {
+        "country": "BR",
+        "city": "Natal",
+        "name": "Governador Alu\u00edzio Alves International Airport"
+    },
+    "LGW": {
+        "country": "GB",
+        "city": "London",
+        "name": "London Gatwick Airport"
+    },
+    "YYZ": {
+        "country": "CA",
+        "city": "Toronto",
+        "name": "Lester B. Pearson International Airport"
+    },
+    "KWE": {
+        "country": "CN",
+        "city": "Guiyang",
+        "name": "Longdongbao Airport"
+    },
+    "FFD": {
+        "country": "GB",
+        "city": "Fairford",
+        "name": "RAF Fairford"
+    },
+    "PAM": {
+        "country": "US",
+        "city": "Panama City",
+        "name": "Tyndall Air Force Base"
+    },
+    "LAS": {
+        "country": "US",
+        "city": "Las Vegas",
+        "name": "McCarran International Airport"
+    },
+    "HKG": {
+        "country": "HK",
+        "city": "Hong Kong",
+        "name": "Chek Lap Kok International Airport"
+    },
+    "BHD": {
+        "country": "GB",
+        "city": "Belfast",
+        "name": "George Best Belfast City Airport"
+    },
+    "VKO": {
+        "country": "RU",
+        "city": "Moscow",
+        "name": "Vnukovo International Airport"
+    },
+    "TER": {
+        "country": "PT",
+        "city": "Praia da Vit\u00f3ria",
+        "name": "Lajes Airport"
+    },
+    "DLH": {
+        "country": "US",
+        "city": "Duluth",
+        "name": "Duluth International Airport"
+    },
+    "CIA": {
+        "country": "IT",
+        "city": "Rome",
+        "name": "Ciampino\u2013G. B. Pastine International Airport"
+    },
+    "MCT": {
+        "country": "OM",
+        "city": "Muscat",
+        "name": "Muscat International Airport"
+    },
+    "NAY": {
+        "country": "CN",
+        "city": "Beijing",
+        "name": "Beijing Nanyuan Airport"
+    },
+    "BOO": {
+        "country": "NO",
+        "city": "Bod\u00f8",
+        "name": "Bod\u00f8 Airport"
+    },
+    "RND": {
+        "country": "US",
+        "city": "Universal City",
+        "name": "Randolph Air Force Base"
+    },
+    "PVR": {
+        "country": "MX",
+        "city": "Puerto Vallarta",
+        "name": "Licenciado Gustavo D\u00edaz Ordaz International Airport"
+    },
+    "BLA": {
+        "country": "VE",
+        "city": "Barcelona",
+        "name": "General Jos\u00e9 Antonio Anzoategui International Airport"
+    },
+    "GRJ": {
+        "country": "ZA",
+        "city": "George",
+        "name": "George Airport"
+    },
+    "ALP": {
+        "country": "SY",
+        "city": "Aleppo",
+        "name": "Aleppo International Airport"
+    },
+    "ATL": {
+        "country": "US",
+        "city": "Atlanta",
+        "name": "Hartsfield Jackson Atlanta International Airport"
+    },
+    "GYD": {
+        "country": "AZ",
+        "city": "Baku",
+        "name": "Heydar Aliyev International Airport"
+    },
+    "TNA": {
+        "country": "CN",
+        "city": "Jinan",
+        "name": "Yaoqiang Airport"
+    },
+    "BKK": {
+        "country": "TH",
+        "city": "Bangkok",
+        "name": "Suvarnabhumi Airport"
+    },
+    "RFD": {
+        "country": "US",
+        "city": "Chicago/Rockford",
+        "name": "Chicago Rockford International Airport"
+    },
+    "LOS": {
+        "country": "NG",
+        "city": "Lagos",
+        "name": "Murtala Muhammed International Airport"
+    },
+    "GUM": {
+        "country": "GU",
+        "city": "Hag\u00e5t\u00f1a, Guam International Airport",
+        "name": "Antonio B. Won Pat International Airport"
+    },
+    "COS": {
+        "country": "US",
+        "city": "Colorado Springs",
+        "name": "City of Colorado Springs Municipal Airport"
+    },
+    "NAS": {
+        "country": "BS",
+        "city": "Nassau",
+        "name": "Lynden Pindling International Airport"
+    },
+    "ADA": {
+        "country": "TR",
+        "city": "Adana",
+        "name": "Adana Airport"
+    },
+    "CLT": {
+        "country": "US",
+        "city": "Charlotte",
+        "name": "Charlotte Douglas International Airport"
+    },
+    "KEF": {
+        "country": "IS",
+        "city": "Reykjav\u00edk",
+        "name": "Keflavik International Airport"
+    }
+}
