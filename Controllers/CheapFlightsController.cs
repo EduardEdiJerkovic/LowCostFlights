@@ -5,6 +5,7 @@ using System.Net.Http;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
+using System.IO;
 
 namespace LowCostFlights.Controllers
 {
@@ -12,11 +13,15 @@ namespace LowCostFlights.Controllers
     public class CheapFlightsController : Controller //ApiController
     {
         public string flightSearchUrl = "https://api.sandbox.amadeus.com/v1.2/flights/low-fare-search";
-        private string apiKey = "xJkGTa34Al5WCaV73GA0Rx2jCz6i3YPy";
+
+        private string apiKey = "";
         // GET api/values
         [HttpGet]
         public List<TableData> Get(FlightSearchRequest flight) //[FromUri]
         {          
+            var file =   new StreamReader(@"ApiKey.txt"); 
+            apiKey = file.ReadLine();
+
             var url = string.Format(flightSearchUrl + "?apikey={0}&origin={1}&destination={2}&departure_date={3:yyyy-MM-dd}&adults={4}&currency={5}", apiKey, flight.org, flight.dest, flight.departureDate, flight.passengers, flight.currency);
 
             var result = QueryRemoteApi(url).Result;
